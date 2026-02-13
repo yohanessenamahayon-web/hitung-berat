@@ -5,4 +5,4 @@ st.title("Menghitung :blue[Berat Badan] :Manusia:")
 r = st.number_input("Masukan Berat Badan) (cm) ",0)
 if st.button("Hitung Volume", type="primary"):
   IMT = math.pi*(r**2)*t
- module st.success(f'Berat Badan adalah {v:.2f}')
+ <module> st.success(f'Berat Badan adalah {v:.2f}')
